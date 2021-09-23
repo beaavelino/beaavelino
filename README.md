@@ -2,8 +2,8 @@
 
 - 🌻 Buscando por inovação.
 - 💻 Estudando Java, MySQL, CSS ... 
-- 🌍 O mundo é nosso!
 - 🤖 Pronomes:  Ela/Dela
+- 💪 Tech Women
 
  <div>
   <a href="https://https://github.com/beaavelino">
