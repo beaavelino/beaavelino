@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/236x/05/24/ff/0524ff9aaa4f5648138e3565f83d85dc.jpg">
+  <img align="right" alt="Rafa-yoda" src="https://images.vexels.com/media/users/3/230588/isolated/preview/b31870f6b86efb15f6f1abfea8f906ae-ilustracao-de-abracos-femininos.png">
  
 
 </div>
