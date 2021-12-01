@@ -1,7 +1,7 @@
 ## Oii Bem-vinde!
 
 - 🌻 Buscando por inovação.
-- 💻 Estudando Java, MySQL, CSS ... 
+- 💻 Dev. Full Stack... 
 - 🤖 Pronomes:  Ela/Dela
 - 💪 Tech Women
 
