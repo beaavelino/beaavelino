@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <br>
   <img align="right" alt="Rafa-yoda" src="https://images.vexels.com/media/users/3/230588/isolated/preview/b31870f6b86efb15f6f1abfea8f906ae-ilustracao-de-abracos-femininos.png">
  
 
