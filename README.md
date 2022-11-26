@@ -1,4 +1,4 @@
-## Oii Bem-vinde!
+## Oii!
 
 - 🌻 Buscando por inovação.
 - 💻 Dev. Full Stack... 
